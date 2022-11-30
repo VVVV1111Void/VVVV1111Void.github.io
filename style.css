@@ -54,16 +54,16 @@
     opacity: 0;
     visibility: hidden;
 }
+
 .type{
     opacity: 1;
     visibility: visible;
 	display: inline-block;
 	overflow: hidden;
 	letter-spacing: 3px;
-	animation: typing 5s steps(34,end);
+	animation: typing 5s steps(45,end);
 	white-space: nowrap;
-	font-size: 40px;
-	font-weight: 700;
+	font-size: 32px;
 	box-sizing: border-box;
 }
 
