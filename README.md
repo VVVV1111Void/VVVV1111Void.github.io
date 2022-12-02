@@ -5,3 +5,6 @@ Personal Website
 ### Bootstrap
 ### HTML-CSS-JS
 ### WASM
+
+### Credits:
+[Sunset](https://www.pexels.com/)
