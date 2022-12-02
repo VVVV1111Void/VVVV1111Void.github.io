@@ -1,11 +1,15 @@
+/* Content-section general handling */
+
 .content-section {
-    margin-bottom:100vh;
+    height: 100vh;
 }
 
 #cube {
     margin-top: 20vh;
     text-align: center;
 }
+
+/* Sidebar */
 @media (max-width: 991.98px) {
     .offcanvas-collapse {
         position: fixed;
@@ -46,16 +50,12 @@
 
 /* Typewritter effect */
 
-/* .typewritter{
-	font-family: monospace;
-	display: inline-block
-} */
 .hello_heading {
     opacity: 0;
     visibility: hidden;
 }
 
-.type{
+.type {
     opacity: 1;
     visibility: visible;
 	display: inline-block;
