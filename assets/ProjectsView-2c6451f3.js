@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,a as c}from"./index-efa23145.js";const o={},_={class:"projects"},n=c("h1",null,"WIP",-1),r=[n];function a(i,d){return s(),t("div",_,r)}const f=e(o,[["render",a]]);export{f as default};
