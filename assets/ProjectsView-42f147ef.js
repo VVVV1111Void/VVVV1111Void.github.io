@@ -1,0 +1,1 @@
+import{_ as c,o as s,c as o,p as t,a as _,b as a}from"./index-4a7e770f.js";const d={},n=e=>(t("data-v-df68cb74"),e=e(),_(),e),p={class:"projects"},r=n(()=>a("h1",null,null,-1)),i=[r];function l(e,f){return s(),o("div",p,i)}const h=c(d,[["render",l],["__scopeId","data-v-df68cb74"]]);export{h as default};
